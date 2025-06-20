@@ -1,0 +1,8 @@
+pip install langchain
+pip install openai
+pip install chromadb
+pip install tiktoken
+pip install pandas
+pip install openpyxl
+pip install pytesseract
+pip install pdf2image
