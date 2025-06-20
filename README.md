@@ -5,8 +5,12 @@
 <div>
     <img width="500" alt="teaser" src="doc/ui-screenshot.png">
 </div>
-<div>
-  <a target="_blank" href="https://colab.research.google.com/github/asumansaree/ResumeMatch"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<div align="center">
+  <div>
+    <a target="_blank" href="https://youtu.be/QnDgNRH7JJU">
+      🎥 Watch Demo Video
+    </a>
+  </div>
 </div>
 </div>
 
